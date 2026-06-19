@@ -1,4 +1,3 @@
-import React from 'react';
 import { Ship, Package, FileText, CheckCircle, Anchor, Globe } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
